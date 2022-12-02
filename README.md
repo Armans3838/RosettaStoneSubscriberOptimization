@@ -1,7 +1,7 @@
 # MGSC410_Applied_Business_Analytics
 
 # Sources/Help
-For this assignment, I used the following resources:
+For this assignment, we used the following resources:
 - 
 
 # Goal:
