@@ -1,37 +1,24 @@
-# CPSC380_Operating_Systems
-Arman Siddiqui
+# MGSC410_Applied_Business_Analytics
 
 # Sources/Help
 For this assignment, I used the following resources:
-- Lucus helped me work through the algorithms used for this assignment
-- GitHub CoPilot helped me with the syntax for the algorithms and helpful code suggestions as I worked through the assignment
-- GeeksforGeeks offered lots of insight into the algorithms used for this assignment through their scheduling algorithms page
+- 
 
 # Goal:
-The Goal of this assignment was to expand on how the 4 main algorithms for our CPU scheduler work. This includes, First Come First Serve, Priority, Round Robin, and Shortest Job First. The goal of this assignment was to implement these algorithms in a way that would allow for the user to input a file that would be read and then the scheduler would run the designated algorithm(s) on the inputted file.
+Subscriber optimization for Rosetta Stone    
 
-In addition, the use of a Makefile was required to compile the code and run the program. This was a great expansion into such files and their use.
+Your task is to be the analytical team to help Rosetta Stone meet their business growth goals by attempting to;
 
-# How to Run:
-Copy the set of files to a directory of your choice. Then, open a terminal and navigate to the directory. Once there, type the following command:
+1. Determine the most valuable subscribers
+2. Understanding the subscriber segments present in the database
+3. Identify the most likely subscribers who could be sold additional products or services
+4. Identify the subscriber profile of those not continuing with their usage of the product and identify the barriers to deeper subscriber engagement where possible
+5. Outline any business relevant opportunities that are present from your analysis of the data no covered above
+ 
+Goals for final assignment;
 
-```
-make (algorithm)
-```
+Design and communicate an analytical plan for meeting the key business objectives for Rosetta Stone (as defined above).
 
-Where (algorithm) is the algorithm you want to run. This can be any of the following:
+Conduct analysis on provided dataset. It is expected groups perform a thorough examination of the data and then attempt to construct a model designed to meet the business growth goal.
 
-```
-fcfs
-priority
-rr
-sjf
-```
-
-Using the options above run the following to run the program:
-
-```
-./(algorithm) (input file)
-```
-
-Where (algorithm) is the algorithm you want to run and (input file) is the file you want to run the algorithm on. The input file must be in the same directory as the program.
+Present verbally and visually your analytical plan and modeling work using data to support recommendations. Tie output of models back to business growth goals. 
